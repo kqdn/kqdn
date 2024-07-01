@@ -7,7 +7,7 @@ img {
   margin-right: auto;
 }
 </style>
-<img src="https://i.ibb.co/rQ0m96v/logo.png" alt="knowledgehouselogo" style="width:50%;">
+<img src="https://i.ibb.co/rQ0m96v/logo.png" alt="knowledgehouselogo" style="width:50;">
 - 🌱 im currently learning **css, html, java**
 
 
