@@ -1,7 +1,7 @@
 <h1 align="center">yooo i'm kaden kim</h1>
 <h3 align="center">I'm a fellow at <a href="https://www.theknowledgehouse.org/karim_kharbouch_coding_fellowship/"/>KKCF</a> </h3>
 
-<img src="https://i.ibb.co/rQ0m96v/logo.png" alt="knowledgehouselogo" style="width:50;">
+
 - 🌱 im currently learning **css, html, java**
 
 
