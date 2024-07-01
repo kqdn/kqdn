@@ -1,5 +1,5 @@
 <h1 align="center">yooo i'm kaden kim</h1>
-<h3 align="center">i'm working on projects for kkcf <a href="https://www.theknowledgehouse.org/karim_kharbouch_coding_fellowship/"> </h3>
+<h3 align="center">i'm working on projects for kkcf <a href="https://www.theknowledgehouse.org/karim_kharbouch_coding_fellowship/"/> </a> </h3>
 
 - 🌱 im currently learning **css, html, java**
 
