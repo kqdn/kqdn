@@ -1,6 +1,6 @@
 <h1 align="center">yooo i'm kaden kim</h1>
-<h3 align="center">i'm working on projects for <a href="https://www.theknowledgehouse.org/karim_kharbouch_coding_fellowship/"/>KKCF</a> </h3>
-
+<h3 align="center">I'm a fellow at <a href="https://www.theknowledgehouse.org/karim_kharbouch_coding_fellowship/"/>KKCF</a> </h3>
+<img src="https://www.theknowledgehouse.org/" alt="knowledgehouselogo"> 
 - 🌱 im currently learning **css, html, java**
 
 
