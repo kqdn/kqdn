@@ -1,4 +1,4 @@
-<h1 align="center">yo i'm kaden kim</h1>
+<h1 align="center">yooo i'm kaden kim</h1>
 <h3 align="center">working on stuff for kkcf</h3>
 
 - 🌱 im currently learning **css, html, java**
