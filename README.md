@@ -1,4 +1,4 @@
-<h1 align="center">yooo i'm kaden kim</h1>
+<h1 align="center">yooo i'm kaden</h1>
 <h3 align="center">I'm a fellow at <a href="https://www.theknowledgehouse.org/karim_kharbouch_coding_fellowship/"/>KKCF</a> </h3>
 
 
