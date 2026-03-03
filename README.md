@@ -1,9 +1,60 @@
-<h1 align="center">yooo i'm kaden</h1>
-<h3 align="center">I'm a fellow at <a href="https://www.theknowledgehouse.org/karim_kharbouch_coding_fellowship/"/>KKCF</a> </h3>
+# Kaden Kim
 
+Computer Science Student  
+Aspiring Software Engineer  
+California  
 
-- 🌱 im currently learning **css, html, java**
+---
 
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I’m a Computer Science student focused on building clean, useful software.  
+I enjoy turning ideas into practical applications and continuously improving my technical foundation.
+
+Currently:
+- Studying core CS concepts (data structures & algorithms)
+- Building web and backend projects
+- Preparing for software engineering internships
+
+---
+
+## Technical Skills
+
+### Languages
+- C++
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### Tools & Technologies
+- Git & GitHub
+- Discord API
+- Bootstrap
+- Figma
+
+---
+
+## Projects
+
+**Custom Discord Bot**  
+Built using JavaScript/Typescript and the Discord API with custom commands and embeds.
+
+**Portfolio Website**  
+Designed and developed a responsive personal website to showcase projects and skills.
+
+**Coursework Projects**  
+C++ programs focused on problem-solving, algorithms, and core programming concepts.
+
+---
+
+## Goals
+
+- Maintain consistent LeetCode practice to master data structures and algorithms
+- Build full-stack applications
+- Secure a software engineering internship
+
+---
+
+## Contact  
+LinkedIn: https://linkedin.com/in/kimkaden
