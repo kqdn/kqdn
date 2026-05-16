@@ -1,20 +1,19 @@
 # Kaden Kim
-
 Computer Science Student @ UC Berkeley
-Aspiring Software Engineer  
-California  
+Aspiring Software Engineer | Quant Finance Enthusiast
+California
 
 ---
 
 ## About Me
 
-I’m a Computer Science student focused on building clean, useful software.  
-I enjoy turning ideas into practical applications and continuously improving my technical foundation.
+I'm a Computer Science student at UC Berkeley with a strong foundation in software engineering and a growing interest in quantitative finance. I'm drawn to the intersection of markets, math, and systems -- building software that solves real problems while exploring how computational thinking applies to financial modeling and trading.
 
 Currently:
-- Studying core CS concepts (data structures & algorithms)
-- Building web and backend projects
-- Preparing for software engineering internships
+- Deepening my math and stats foundation (linear algebra, probability)
+- Building web, backend, and algorithmic projects
+- Exploring quant finance concepts and how they intersect with CS
+- Preparing for software engineering and quant-adjacent internships
 
 ---
 
@@ -24,8 +23,11 @@ Currently:
 - C++
 - Java
 - JavaScript
-- HTML
-- CSS
+- HTML / CSS
+
+### Math & Quantitative
+- Linear Algebra
+- Probability & Statistics
 
 ### Tools & Technologies
 - Git & GitHub
@@ -37,24 +39,11 @@ Currently:
 
 ## Projects
 
-**Custom Discord Bot**  
-Built using JavaScript/Typescript and the Discord API with custom commands and embeds.
+**Custom Discord Bot**
+Built using JavaScript/TypeScript and the Discord API with custom commands and embeds. Focused on clean architecture and command handling at scale.
 
-**Portfolio Website**  
-Designed and developed a responsive personal website to showcase projects and skills.
+**Java Projects**
+Object-oriented applications built in Java covering data structures, algorithms, and system design concepts. Emphasis on clean code and scalable design patterns.
 
-**Coursework Projects**  
-C++ programs focused on problem-solving, algorithms, and core programming concepts.
-
----
-
-## Goals
-
-- Maintain consistent LeetCode practice to master data structures and algorithms
-- Build full-stack applications
-- Secure a software engineering internship
-
----
-
-## Contact  
-LinkedIn: https://linkedin.com/in/kimkaden
+**Portfolio Website**
+Designed and developed a responsive
