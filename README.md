@@ -1,6 +1,6 @@
 # Kaden Kim
 
-Computer Science Student  
+Computer Science Student @ UC Berkeley
 Aspiring Software Engineer  
 California  
 
